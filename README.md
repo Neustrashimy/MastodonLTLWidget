@@ -1,4 +1,4 @@
-[“ú–{Œê](README.ja.md)
+[æ—¥æœ¬èªž](README.ja.md)
 
 # MastodonLTLWidget
 
