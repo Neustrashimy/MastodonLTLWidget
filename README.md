@@ -1,3 +1,5 @@
+[“ú–{Œê](README.ja.md)
+
 # MastodonLTLWidget
 
 Display Local Time Line in your "about" page.
@@ -9,4 +11,4 @@ Display Local Time Line in your "about" page.
 * PHP-PDO
 * PHP-PgSQL
 
-And, you will need PHP-FPM daemon if you using Nginx as Proxy.
+And, you will need PHP-FPM daemon if you using Nginx as Gateway.
