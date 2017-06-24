@@ -1,0 +1,22 @@
+
+
+
+.mstdnWidget {
+	height: 300px;
+	width: 240px;
+}
+
+
+.mstdnBody {
+	overflow-y: auto;
+	overflow-x: hidden;
+	height: 100%;
+	width: 100%;
+}
+
+
+
+.tootUserAvatar img {
+	max-width: 64px;
+	height: auto;
+}
